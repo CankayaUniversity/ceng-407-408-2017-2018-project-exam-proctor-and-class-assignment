@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CONFIG>
+	<!-- General Configuration -->
+	<parameter category="general" key="UseLog" value="1"/>
+  <parameter category="general" key="LogFilePath" value="C:\Users\Samsung\Desktop\ExamProctor\logFiles"/>
+	<parameter category="general" key="LogHierarchy" value=""/>
+  <!-- Database Configuration -->
+  <parameter category="database" key="CommandTimeout" value="600"/>
+  <parameter category="database" key="ConnectionString" value="Data Source=SAMSUNG-PC\SQLEXPRESS; Initial Catalog=ExamProctorProject;Persist Security Info=True;Integrated Security=true;" providerName="System.Data.SqlClient" />
+</CONFIG>
+
