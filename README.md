@@ -34,6 +34,6 @@ ceng-407-408-project-exam-proctor-and-class-assignment created by GitHub Classro
 ## Creating connection MS-SQL and Visual Studio
 •	The system is run on web platform. To view data on the screen, database connection should be provided.
 
-•	From Visual Studio, right click on the project -> add new item -> ado.net entity model -> EF designer from database -> choose database name.
+•	From Visual Studio, right click on the project -> Add New Item -> Ado.net Entity Model -> EF Designer from database -> Choose Database Name.
 
 Connection is created and web pages can be seen on the browser after building is finished.
