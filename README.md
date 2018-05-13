@@ -19,7 +19,9 @@ ceng-407-408-project-exam-proctor-and-class-assignment created by GitHub Classro
 •	After the Visual Studio is opened, click open project and then choose the ExamProctorandClassAssignment folder.
 
 •	Thereafter the project is opened in Visual Studio, choose Login.aspx as a start page(Figure 1) to start viewing/using from the beginning.
+
 •	After the Login Page is selected as a start page, press the build button which is located at top and shown by a blue circle in Figure 2.
+
 •	Then program is built and run. It can be seen the screen on the chosen browser.
 
 
@@ -31,5 +33,7 @@ ceng-407-408-project-exam-proctor-and-class-assignment created by GitHub Classro
 
 ## Creating connection MS-SQL and Visual Studio
 •	The system is run on web platform. To view data on the screen, database connection should be provided.
+
 •	From Visual Studio, right click on the project -> add new item -> ado.net entity model -> EF designer from database -> choose database name.
+
 Connection is created and web pages can be seen on the browser after building is finished.
