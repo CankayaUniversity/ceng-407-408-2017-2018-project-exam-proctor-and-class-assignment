@@ -135,7 +135,7 @@ In this page, admin can add a course, and list all courses by choosing the facul
 
 In this page, admin can add a class, and list all classes of that university. (Figure 15)
 
-![](https://preview.ibb.co/ktqe1T/admin_panel_class.png)
+![](https://image.ibb.co/c29vao/admin_panel_class.png)
 ### Figure 15: Admin Panel Page - Class
 
 ### -Exam Calendar Request-
