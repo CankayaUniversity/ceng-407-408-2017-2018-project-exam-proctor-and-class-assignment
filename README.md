@@ -114,7 +114,7 @@ In this page, user be able to change his/her password by filling the necessary t
 ### -Faculty-
 In this page, admin can insert a faculty and list all faculties of the university such as Figure 12.
 
-![](https://preview.ibb.co/fJ8A88/admin_panel_faculty.png)
+![](https://image.ibb.co/kfUvao/admin_panel_faculty.png)
 ### Figure 12: Admin Panel Page - Faculty 
 
 ### -Department-
