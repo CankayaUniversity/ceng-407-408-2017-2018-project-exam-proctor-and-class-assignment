@@ -47,7 +47,7 @@ Connection is created and web pages can be seen on the browser after building is
 
 The website has been implemented for the all users. According to user types, the pages that users can view are different. All users have to login to the system with their TC no and password. They be able to reach to their personal page and other pages with clicking the Sign In button (Figure 1). If user clicks on remember me checkbox, browser, TC no textbox will be filled for second or subsequent entries.
 
-![](https://preview.ibb.co/ec0kao/login.png)
+![](https://image.ibb.co/d4Ve1T/login.png)
 ### Figure 1: Login Page
 
 If the user clicks on Sign Up button, he/she should be enter his/her TC no. If the entered TC number is registered into the school’s database, the user will be registered such as Figure 2.
@@ -57,14 +57,14 @@ If the user clicks on Sign Up button, he/she should be enter his/her TC no. If t
 
 If the user clicks on Forgot Password hyperlink, he/she should be enter his/her e-mail address. When the Request button is clicked, a random password will be sent to the email address entered by the user. It is shown in Figure 3.
 
-![](https://preview.ibb.co/m8CL88/forgot_password.png)
+![](https://image.ibb.co/nAw2MT/forgot_password.png)
 ### Figure 3: Forgot Password Page
 
 ## -HOMEPAGE-
 
 If the user is student, he/she can view created exam dates of taken courses by his/her. If the user is teacher, he/she can view created exam dates of given courses by his/her. (Figure 4 and Figure 5 with the my profile menu)
 
-![](https://preview.ibb.co/fUTGgT/home_page.png)
+![](https://image.ibb.co/exthMT/home_page.png)
 ### Figure 4: Home Page
 
 ![](https://image.ibb.co/m94iT8/home_page_profil.png)
