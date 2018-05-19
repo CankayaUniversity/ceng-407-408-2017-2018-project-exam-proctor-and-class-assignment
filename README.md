@@ -67,7 +67,7 @@ If the user is student, he/she can view created exam dates of taken courses by h
 ![](https://preview.ibb.co/fUTGgT/home_page.png)
 ### Figure 4: Home Page
 
-![](https://preview.ibb.co/he01Fo/home_page_profil.png)
+![](https://image.ibb.co/m94iT8/home_page_profil.png)
 ### Figure 5: Home Page with my profile menu
 
 ## -EXAM REQUEST-
