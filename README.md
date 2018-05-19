@@ -152,5 +152,5 @@ In this page, user can view his/her personal information and change the contact 
 ![](https://image.ibb.co/c24Ho8/my_profile_1.png)
 ### Figure 17: My Profile Page
 
-![](https://image.ibb.co/bYWK1T/notification_settings.png)
+![](https://image.ibb.co/gJFe1T/my_profile_2.png)
 ### Figure 18: My Profile Page (Continue)
