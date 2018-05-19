@@ -76,16 +76,16 @@ If the user is student, he/she can view created exam dates of taken courses by h
 
 In this page, teachers be able to request for an exam for given course/s by her/his. Firsty, course name should be chosen from the drop down list. After that, exam duration, class type, number of student and assistant should be choose. If teacher does not want assistant for that exam, there is a check box named “I do not want assistant”.(Figure 6, Figure 7, Figure 8, and Figure 9)
 
-![](https://preview.ibb.co/eFico8/make_an_exam_request_1.png)
+![](https://image.ibb.co/n5OMFo/make_an_exam_request_1.png)
 ### Figure 6: Make Exam Request Page
 
-![](https://preview.ibb.co/mqYco8/make_an_exam_request_2.png)
+![](https://image.ibb.co/kSPiT8/make_an_exam_request_2.png)
 ### Figure 7: Make Exam Request Page - My Courses Step
 
-![](https://preview.ibb.co/e38A88/make_an_exam_request_3.png)
+![](https://image.ibb.co/ms5CMT/make_an_exam_request_3.png)
 ### Figure 8: Make Exam Request Page - Capacity & Class Step
 
-![](https://preview.ibb.co/gjDz1T/make_an_exam_request_4.png)
+![](https://image.ibb.co/jpP6gT/make_an_exam_request_4.png)
 ### Figure 9: Make Exam Request Page - Capacity & Class Step 2
 
 
@@ -99,14 +99,14 @@ In this page, teachers be able to request for an exam for given course/s by her/
 
 In this page, user be able to choose approval platform, time for the get information about created exams. User be able to choose default day and time to be get informed. Also user may not want to be get informed about exams. By clicking the checkbox“I want to be informd coming exams”, user the user will not receive information.(Figure 10)
 
-![](https://preview.ibb.co/hqtovo/notification_settings.png)
+![](https://image.ibb.co/bYWK1T/notification_settings.png)
 ### Figure 10: Notification Settings Page
 
 ### -Password Settings-
 
 In this page, user be able to change his/her password by filling the necessary textboxes like Figure 11.
 
-![](https://preview.ibb.co/bwU6gT/password_settings.png)
+![](https://image.ibb.co/eH68vo/password_settings.png)
 ### Figure 11: Password Settings Page
 
 ## -ADMIN PANEL-
