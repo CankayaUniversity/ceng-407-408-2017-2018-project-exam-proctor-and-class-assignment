@@ -128,7 +128,7 @@ In this page, admin can add a department, and list all departments by choosing t
 
 In this page, admin can add a course, and list all courses by choosing the faculty and department. (Figure 14)
 
-
+![](https://image.ibb.co/iUiMFo/admin_panel_course.png)
 ### Figure 14: Admin Panel Page - Course
 
 ### -Class-
