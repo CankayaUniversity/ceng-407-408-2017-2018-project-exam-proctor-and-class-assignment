@@ -47,27 +47,27 @@ Connection is created and web pages can be seen on the browser after building is
 
 The website has been implemented for the all users. According to user types, the pages that users can view are different. All users have to login to the system with their TC no and password. They be able to reach to their personal page and other pages with clicking the Sign In button (Figure 1). If user clicks on remember me checkbox, browser, TC no textbox will be filled for second or subsequent entries.
 
-
+![](https://preview.ibb.co/mfjTvo/login.png)
 ### Figure 1: Login Page
 
 If the user clicks on Sign Up button, he/she should be enter his/her TC no. If the entered TC number is registered into the school’s database, the user will be registered such as Figure 2.
 
-
+![](https://image.ibb.co/kzvOT8/sign_up.png)
 ### Figure 2: Sign up Page
 
 If the user clicks on Forgot Password hyperlink, he/she should be enter his/her e-mail address. When the Request button is clicked, a random password will be sent to the email address entered by the user. It is shown in Figure 3.
 
-
+![](https://preview.ibb.co/m8CL88/forgot_password.png)
 ### Figure 3: Forgot Password Page
 
 ## -HOMEPAGE-
 
 If the user is student, he/she can view created exam dates of taken courses by his/her. If the user is teacher, he/she can view created exam dates of given courses by his/her. (Figure 4 and Figure 5 with the my profile menu)
 
-
+![](https://preview.ibb.co/fUTGgT/home_page.png)
 ### Figure 4: Home Page
 
-
+![](https://preview.ibb.co/he01Fo/home_page_profil.png)
 ### Figure 5: Home Page with my profile menu
 
 ## -EXAM REQUEST-
@@ -76,16 +76,16 @@ If the user is student, he/she can view created exam dates of taken courses by h
 
 In this page, teachers be able to request for an exam for given course/s by her/his. Firsty, course name should be chosen from the drop down list. After that, exam duration, class type, number of student and assistant should be choose. If teacher does not want assistant for that exam, there is a check box named “I do not want assistant”.(Figure 6, Figure 7, Figure 8, and Figure 9)
 
-
+![](https://preview.ibb.co/eFico8/make_an_exam_request_1.png)
 ### Figure 6: Make Exam Request Page
 
-
+![](https://preview.ibb.co/mqYco8/make_an_exam_request_2.png)
 ### Figure 7: Make Exam Request Page - My Courses Step
 
-
+![](https://preview.ibb.co/e38A88/make_an_exam_request_3.png)
 ### Figure 8: Make Exam Request Page - Capacity & Class Step
 
-
+![](https://preview.ibb.co/gjDz1T/make_an_exam_request_4.png)
 ### Figure 9: Make Exam Request Page - Capacity & Class Step 2
 
 
@@ -99,14 +99,14 @@ In this page, teachers be able to request for an exam for given course/s by her/
 
 In this page, user be able to choose approval platform, time for the get information about created exams. User be able to choose default day and time to be get informed. Also user may not want to be get informed about exams. By clicking the checkbox“I want to be informd coming exams”, user the user will not receive information.(Figure 10)
 
-
+![](https://preview.ibb.co/hqtovo/notification_settings.png)
 ### Figure 10: Notification Settings Page
 
 ### -Password Settings-
 
 In this page, user be able to change his/her password by filling the necessary textboxes like Figure 11.
 
-
+![](https://preview.ibb.co/bwU6gT/password_settings.png)
 ### Figure 11: Password Settings Page
 
 ## -ADMIN PANEL-
@@ -114,14 +114,14 @@ In this page, user be able to change his/her password by filling the necessary t
 ### -Faculty-
 In this page, admin can insert a faculty and list all faculties of the university such as Figure 12.
 
-
+![](https://preview.ibb.co/fJ8A88/admin_panel_faculty.png)
 ### Figure 12: Admin Panel Page - Faculty 
 
 ### -Department-
 
 In this page, admin can add a department, and list all departments by choosing the faculty. (Figure 13)
 
-
+![](https://preview.ibb.co/jkwaao/admin_panel_department.png)
 ### Figure 13: Admin Panel Page - Department
 
 ### -Course-
@@ -135,22 +135,22 @@ In this page, admin can add a course, and list all courses by choosing the facul
 
 In this page, admin can add a class, and list all classes of that university. (Figure 15)
 
-
+![](https://preview.ibb.co/ktqe1T/admin_panel_class.png)
 ### Figure 15: Admin Panel Page - Class
 
 ### -Exam Calendar Request-
 
 In this page, admin can provide the settings about exam dates for each department.(Figure 16)
 
-
+![](https://image.ibb.co/kzYP1T/2018_05_19.png)
 ### Figure 16 : Admin Panel Page - Exam Calendar Request 
 
 ## -MY PROFILE-
 
 In this page, user can view his/her personal information and change the contact information and photo. (Figure 17, and Figure 18)
 
-
+![](https://preview.ibb.co/hvHsMT/my_profile_1.png)
 ### Figure 17: My Profile Page
 
-
+![](https://image.ibb.co/gJFe1T/my_profile_2.png)
 ### Figure 18: My Profile Page (Continue)
