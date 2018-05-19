@@ -37,3 +37,120 @@ ceng-407-408-project-exam-proctor-and-class-assignment created by GitHub Classro
 •	From Visual Studio, right click on the project -> Add New Item -> Ado.net Entity Model -> EF Designer from database -> Choose Database Name.
 
 Connection is created and web pages can be seen on the browser after building is finished.
+
+
+# USER MANUAL
+
+## Website of the Exam Proctor and Class Assignment System
+
+## -LOGIN-
+
+The website has been implemented for the all users. According to user types, the pages that users can view are different. All users have to login to the system with their TC no and password. They be able to reach to their personal page and other pages with clicking the Sign In button (Figure 1). If user clicks on remember me checkbox, browser, TC no textbox will be filled for second or subsequent entries.
+
+
+### Figure 1: Login Page
+
+If the user clicks on Sign Up button, he/she should be enter his/her TC no. If the entered TC number is registered into the school’s database, the user will be registered such as Figure 2.
+
+
+### Figure 2: Sign up Page
+
+If the user clicks on Forgot Password hyperlink, he/she should be enter his/her e-mail address. When the Request button is clicked, a random password will be sent to the email address entered by the user. It is shown in Figure 3.
+
+
+### Figure 3: Forgot Password Page
+
+## -HOMEPAGE-
+
+If the user is student, he/she can view created exam dates of taken courses by his/her. If the user is teacher, he/she can view created exam dates of given courses by his/her. (Figure 4 and Figure 5 with the my profile menu)
+
+
+### Figure 4: Home Page
+
+
+### Figure 5: Home Page with my profile menu
+
+## -EXAM REQUEST-
+
+### -Make an Exam Request-
+
+In this page, teachers be able to request for an exam for given course/s by her/his. Firsty, course name should be chosen from the drop down list. After that, exam duration, class type, number of student and assistant should be choose. If teacher does not want assistant for that exam, there is a check box named “I do not want assistant”.(Figure 6, Figure 7, Figure 8, and Figure 9)
+
+
+### Figure 6: Make Exam Request Page
+
+
+### Figure 7: Make Exam Request Page - My Courses Step
+
+
+### Figure 8: Make Exam Request Page - Capacity & Class Step
+
+
+### Figure 9: Make Exam Request Page - Capacity & Class Step 2
+
+
+### -My Exam Requests-
+
+### -Other Exam Requests-
+
+## -SETTINGS-
+
+### -Notification Settings-
+
+In this page, user be able to choose approval platform, time for the get information about created exams. User be able to choose default day and time to be get informed. Also user may not want to be get informed about exams. By clicking the checkbox“I want to be informd coming exams”, user the user will not receive information.(Figure 10)
+
+
+### Figure 10: Notification Settings Page
+
+### -Password Settings-
+
+In this page, user be able to change his/her password by filling the necessary textboxes like Figure 11.
+
+
+### Figure 11: Password Settings Page
+
+## -ADMIN PANEL-
+
+### -Faculty-
+In this page, admin can insert a faculty and list all faculties of the university such as Figure 12.
+
+
+### Figure 12: Admin Panel Page - Faculty 
+
+### -Department-
+
+In this page, admin can add a department, and list all departments by choosing the faculty. (Figure 13)
+
+
+### Figure 13: Admin Panel Page - Department
+
+### -Course-
+
+In this page, admin can add a course, and list all courses by choosing the faculty and department. (Figure 14)
+
+
+### Figure 14: Admin Panel Page - Course
+
+### -Class-
+
+In this page, admin can add a class, and list all classes of that university. (Figure 15)
+
+
+### Figure 15: Admin Panel Page - Class
+
+### -Exam Calendar Request-
+
+In this page, admin can provide the settings about exam dates for each department.(Figure 16)
+
+
+### Figure 16 : Admin Panel Page - Exam Calendar Request 
+
+## -MY PROFILE-
+
+In this page, user can view his/her personal information and change the contact information and photo. (Figure 17, and Figure 18)
+
+
+### Figure 17: My Profile Page
+
+
+### Figure 18: My Profile Page (Continue)
