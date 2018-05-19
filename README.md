@@ -47,7 +47,7 @@ Connection is created and web pages can be seen on the browser after building is
 
 The website has been implemented for the all users. According to user types, the pages that users can view are different. All users have to login to the system with their TC no and password. They be able to reach to their personal page and other pages with clicking the Sign In button (Figure 1). If user clicks on remember me checkbox, browser, TC no textbox will be filled for second or subsequent entries.
 
-![](https://preview.ibb.co/mfjTvo/login.png)
+![](https://preview.ibb.co/ec0kao/login.png)
 ### Figure 1: Login Page
 
 If the user clicks on Sign Up button, he/she should be enter his/her TC no. If the entered TC number is registered into the school’s database, the user will be registered such as Figure 2.
