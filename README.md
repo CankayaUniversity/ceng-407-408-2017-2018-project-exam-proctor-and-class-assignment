@@ -121,7 +121,7 @@ In this page, admin can insert a faculty and list all faculties of the universit
 
 In this page, admin can add a department, and list all departments by choosing the faculty. (Figure 13)
 
-![](https://preview.ibb.co/jkwaao/admin_panel_department.png)
+![](https://image.ibb.co/cwyXMT/admin_panel_department.png)
 ### Figure 13: Admin Panel Page - Department
 
 ### -Course-
