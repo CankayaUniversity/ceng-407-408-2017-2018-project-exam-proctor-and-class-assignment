@@ -149,8 +149,8 @@ In this page, admin can provide the settings about exam dates for each departmen
 
 In this page, user can view his/her personal information and change the contact information and photo. (Figure 17, and Figure 18)
 
-![](https://preview.ibb.co/hvHsMT/my_profile_1.png)
+![](https://image.ibb.co/c24Ho8/my_profile_1.png)
 ### Figure 17: My Profile Page
 
-![](https://image.ibb.co/gJFe1T/my_profile_2.png)
+![]https://image.ibb.co/bYWK1T/notification_settings.png)
 ### Figure 18: My Profile Page (Continue)
