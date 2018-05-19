@@ -25,7 +25,7 @@ ceng-407-408-project-exam-proctor-and-class-assignment created by GitHub Classro
 •	Then program is built and run. It can be seen the screen on the chosen browser.
 
 
-![](https://image.ibb.co/gQdqyy/figure1.jpg)
+![](https://ibb.co/kDk7o8)
 ### Figure 1
 
 ![](https://image.ibb.co/kFLQWJ/figure2.jpg)
